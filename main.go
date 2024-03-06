@@ -1,10 +1,13 @@
 package main
 
-import (
-	"fmt"
-	"time"
-)
+type myData struct {
+	someField int
+}
+
+func (data *myData) doSomething() {
+	// intentional no-op
+}
 
 func main() {
-	fmt.Println(time.Now())
+	// intentional no-op
 }
