@@ -1,0 +1,6 @@
+{
+  // "go.languageServerFlags": ["-rpc.trace"],
+  // "gopls": {
+  //   "verboseOutput": true
+  // }
+}
